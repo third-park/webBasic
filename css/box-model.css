@@ -1,0 +1,29 @@
+.box1 {
+  background-color: gold;
+}
+
+.box2 {
+  background-color: pink;
+}
+
+.box3 {
+  background-color: lime;
+  width: 350px;
+  padding: 0 170px;
+  box-sizing: border-box;
+}
+
+.box4 {
+  background-color: skyblue;
+}
+
+.box5 {
+  background-color: orange;
+  display: inline-block;
+  width: 100px;
+}
+
+.box6 {
+  background-color: tomato;
+  width: 150px;
+}

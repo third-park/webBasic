@@ -1,0 +1,20 @@
+.box {
+  border: 10px solid red;
+}
+
+.box1 {
+  background-color: gold;
+}
+
+.box2 {
+  background-color: pink;
+  position: absolute;
+}
+
+.box3 {
+  background-color: lime;
+}
+
+.box4 {
+  background-color: aqua;
+}
